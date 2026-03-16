@@ -1,4 +1,4 @@
-// Class generik Bound dengan type parameter T
+// Class generic Bound dengan type parameter T
 // T dibatasi hanya untuk class A atau turunannya
 class Bound<T extends A> {
     
